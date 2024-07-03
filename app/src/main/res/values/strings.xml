@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShurkovDA_02_06</string>
+    <string-array name="names">
+        <item>John Joshua</item>
+        <item>Chinonso James</item>
+        <item>Raph Ron</item>
+        <item>Joy Ezekiel</item>
+        <item>Joy Ezekiel</item>
+    </string-array>
+</resources>
